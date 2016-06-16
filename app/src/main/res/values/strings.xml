@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleList</string>
+    <string name="title_activity_edit">EditActivity</string>
+</resources>
